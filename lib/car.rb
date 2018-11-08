@@ -4,7 +4,7 @@ class Car < Vehicle
   
   
   def go 
-    return 
+    return "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end 
   
   
